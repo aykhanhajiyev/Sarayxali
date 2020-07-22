@@ -1,0 +1,18 @@
+.icons-bar {
+  display: flex;
+  flex-direction: row;
+  font-size: 24px;
+  color: #007bff;
+}
+.facebook {
+    color: #007bff;
+  padding-right: 10px;
+}
+.instagram {
+    color: #007bff;
+  padding-right: 10px;
+}
+.whatsapp{
+    color: #007bff;
+    padding-right: 10px;
+}
